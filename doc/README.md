@@ -259,7 +259,7 @@ total 357M
 104M -rwxrwxrwx 1 work work 104M Jun  7  2017 system.dat
 ```
 
-* checkswdl.bat - Checks the md5sum of swdl.iso and compares it with swdl.iso.md5. Prints a nice pirate ship on a successful verification, else a pirate flag on failure.
+* checkswdl.bat - Checks the md5sum of swdl.iso and compares it with swdl.iso.md5. Prints a nice ~~pirate ship~~ thumbs-up on a successful verification, else a pirate flag on failure.
 
 ```
             _@_
