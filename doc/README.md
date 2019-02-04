@@ -1414,7 +1414,7 @@ The firmware update process attempted to verify the authenticity of the QNXCNDFS
 
 I started this in my free time in July of 2018 and finished early the next month. Overall, the process took less than 100 hours. The embargo was originally scheduled for 90 days, which would have been November 5th, 2018. Subaru requested more time before the original embargo ended and I agreed to extend it until the end of November.
 
-I was unable to find any sort of responsible/coordinated disclosure form on Harman or Subaru's websites. That was disappointing as Harman seems to have plenty of sales pages detailing their security programs and systems. I did managed to find a Harman security engineer on LinkedIn who did an exellent job handling the incident. Thank you!
+I was unable to find any sort of responsible/coordinated disclosure form on Harman or Subaru's websites. That was disappointing as Harman seems to have plenty of sales pages detailing their security programs and systems. I did managed to find a Harman security engineer on LinkedIn who did an excellent job handling the incident. Thank you!
 
 Harman and Subaru should not assume that the biggest flaw is releasing update files. Letting customers update their own head units is wonderful, and it lets security researchers find flaws and report them. Giving the updates exclusively to dealers prevents the good guys from finding bugs. Nation states and organized crime would certainly not have trouble gaining access to firmware and software updates.
 
