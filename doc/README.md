@@ -1418,7 +1418,7 @@ I was unable to find any sort of responsible/coordinated disclosure form on Harm
 
 Harman and Subaru should not assume that the biggest flaw is releasing update files. Letting customers update their own head units is wonderful, and it lets security researchers find flaws and report them. Giving the updates exclusively to dealers prevents the good guys from finding bugs. Nation states and organized crime would certainly not have trouble gaining access to firmware and software updates.
 
-If anyone affiliated with education or some other useful endeavor would like the head unit, I'll be happy to ship it assuming you pay the shipping costs and agree to never install this in a vehicle.
+~~If anyone affiliated with education or some other useful endeavor would like the head unit, I'll be happy to ship it assuming you pay the shipping costs and agree to never install this in a vehicle.~~
 
 Thank you to those I worked with at Harman, especially Josiah Bruner, and to Subaru for making a great car.
 
