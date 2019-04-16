@@ -1185,7 +1185,7 @@ $ ./cdqnx6fs
 sh: ./cdqnx6fs: cannot execute - Permission denied
 ```
 
-Unfortunately, nearly ever binary is locked down to the root user. We can only navigate around via `cd` and dump directory contents with `echo *`.
+Unfortunately, nearly every binary is locked down to the root user. We can only navigate around via `cd` and dump directory contents with `echo *`.
 
 The good news is that when the system mounts a FAT32 USB drive, it marks every binary as 777. Thus, glob every binary we've extracted thus far into a folder on a flash drive, insert it into the head unit USB adapter, connect to dm or daemon via serial, set your $PATH to include the aforementioned folder, and then type ls.
 
