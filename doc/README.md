@@ -708,7 +708,7 @@ Condensed size is a double-word (64-bit value) loaded at offset 0x18. This corre
 00000010  00 c0 ff 3f 00 00 00 00  8c 1d 5e 05 00 00 00 00  |...?......^.....|
 ```
 
-`8c 1d 5e 05 00 00 00 00 is` little endian for `90054028` bytes, which is the exact size of swupdate.dat. This is confirmation that we're on the right track with the header.
+`8c 1d 5e 05 00 00 00 00` is little endian for `90054028` bytes, which is the exact size of swupdate.dat. This is confirmation that we're on the right track with the header.
 
 The header contains several configurable hashes. There's a hash for the metadata, a hash for an "extents" and "cluster" table, and finally a hash for the actual encrypted data. The hash bounds can be reverse engineered by simply guessing else looking a bit further in the binary.
 
